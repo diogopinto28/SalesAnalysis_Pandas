@@ -12,3 +12,5 @@ I used VSCode to compile everything. To use VSCode like a Jupyter Notebook, save
 Set up Python on VSCode: https://code.visualstudio.com/docs/python/python-tutorial
 
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
+
+# My first ever Data Science Project, hope you like it!! 
