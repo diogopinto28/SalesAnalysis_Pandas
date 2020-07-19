@@ -13,4 +13,4 @@ Set up Python on VSCode: https://code.visualstudio.com/docs/python/python-tutori
 
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
 
-# My first ever Data Science Project, hope you like it!! 
+My first ever Data Science Project, hope you like it!! 
