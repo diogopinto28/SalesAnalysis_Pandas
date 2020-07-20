@@ -2,6 +2,8 @@
 Real day-to-day example of data science tasks completed using Pandas library on Python. 
 Additionally MatPlotlib, was used to plot the results.
 
+Based almost all of this project on @KeithGalli's work, with some tutorials he makes!
+
 
 # How to setup on your machine:
 
@@ -12,5 +14,7 @@ I used VSCode to compile everything. To use VSCode like a Jupyter Notebook, save
 Set up Python on VSCode: https://code.visualstudio.com/docs/python/python-tutorial
 
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
+
+Keith project: https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data
 
 My first ever Data Science Project, hope you like it!! 
